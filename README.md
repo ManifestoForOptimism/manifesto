@@ -1,0 +1,2 @@
+# manifesto
+Detail Manifesto Documents
